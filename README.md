@@ -1,4 +1,4 @@
-# @gui.s.calin/ng9-password-strength-bar
+# @guicalin/ng9-password-strength-bar
 
 This is a fork of ng9-password-strength-bar to work on Angular 14+. 
 
