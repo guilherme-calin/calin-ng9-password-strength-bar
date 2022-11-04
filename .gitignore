@@ -50,3 +50,4 @@ Thumbs.db
 /.vs/ng9-password-strength-bar/v16/.suo
 /.vs/ng9-password-strength-bar/v16
 /.vs/ng9-password-strength-bar/config/applicationhost.config
+.angular/cache/
