@@ -1,10 +1,10 @@
 {
-  "name": "@calin/ng9-password-strength-bar",
+  "name": "@gui.s.calin/ng9-password-strength-bar",
   "version": "14.0.0",
   "description": "Fork of Angular Password Strength Bar",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilherme-calin/calin-ng9-password-strength-bar"
+    "url": "git+https://github.com/guilherme-calin/calin-ng9-password-strength-bar.git"
   },
   "author": "Guilherme Calin",
   "license": "MIT",
